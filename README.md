@@ -1,0 +1,2 @@
+# KeyLoggerScreenshotMouseClickTracker
+A keylogger will monitor keystrokes made by the user on a keyboard. This keylogger implements a timestamp that shows the exact date and time the key was pressed/released on the keyboard. Also, a mouse click tracker that displays the click location of the mouse, as well as a screenshot of your screen. First, the keylogger runs but once the user presses the Esc key the system takes a screenshot and switches to the mouse click tracker. 
